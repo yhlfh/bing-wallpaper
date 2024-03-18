@@ -27,6 +27,8 @@ var (
 func init() {
 	Resolution = map[string]string{
 		"1024": "1024x768.jpg",
+		"1280p": "720x1280.jpg",
+		"1280": "1280x720.jpg",
 		"1366p": "768x1366.jpg",
 		"1366": "1366x768.jpg",
 		"1920": "1920x1080.jpg",
